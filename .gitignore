@@ -1,4 +1,5 @@
-output/*.txt 
+output/
+!out/hard_to_estimate.dat 
 data/original_data.csv
 output/summarystats.txt 
 output/coefficeients.txt
